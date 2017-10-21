@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/work/tools/ours-pk/pk'
+let g:netrw_dirhist_2='/work/tools/ours-pk'
+let g:netrw_dirhist_3='/work/tools/ours-pk/pk'
+let g:netrw_dirhist_4='/work/tools'
+let g:netrw_dirhist_5='/work/tools/ours-pk'
+let g:netrw_dirhist_6='/work/tools/ours-pk/machine'
+let g:netrw_dirhist_7='/work/users/tian/spike/riscv-tests/env/p'

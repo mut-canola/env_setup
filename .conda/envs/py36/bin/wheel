@@ -1,0 +1,6 @@
+#!/home/tian/.conda/envs/py36/bin/python
+if __name__ == '__main__':
+    import sys
+    import wheel.tool
+
+    sys.exit(wheel.tool.main())
